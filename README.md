@@ -20,6 +20,7 @@
 </p>
 
 <!-- BLOG-POST-LIST:START -->
+- [Bulletproof Guide to Becoming a PAID Front-End Developer &lpar;No Experience Required!&rpar;](https://bulletproof-code.com/blog/bulletproof-guide-to-becoming-a-paid-front-end-developer)
 <!-- BLOG-POST-LIST:END -->
 
 
