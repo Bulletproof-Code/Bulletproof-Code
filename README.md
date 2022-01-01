@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Will</h1>
 <p style="font-weight: bold" align="center">I teach the most in-demand front-end technologies so you can land your first job as a developer!</p>
 
----
-
----
 
 ## About Me
 
@@ -13,7 +10,6 @@
 
 - ⚡ Fun fact **You can become a software developer**
 
----
 
 ---
 
@@ -26,7 +22,6 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
 
 ---
 
